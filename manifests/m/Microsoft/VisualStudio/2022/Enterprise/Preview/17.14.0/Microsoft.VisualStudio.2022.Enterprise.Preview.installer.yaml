@@ -49,7 +49,7 @@ FileExtensions:
 - xml
 Installers:
 - Architecture: x64
-  InstallerUrl: https://download.visualstudio.microsoft.com/download/pr/47d25f80-748f-47b3-9b87-9080d507e765/da4f9894e13bcc024d6c762277dbf78a1bd798a65806e18666894b04e8c08f2b/vs_Enterprise.exe
-  InstallerSha256: DA4F9894E13BCC024D6C762277DBF78A1BD798A65806E18666894B04E8C08F2B
+  InstallerUrl: https://download.visualstudio.microsoft.com/download/pr/13849371-5fcc-4826-952d-69004ca5e215/d57a4f99fbf65a0a107ceb9970bf99a4cd22aadd54f339a28ced348dd496aa81/vs_Enterprise.exe
+  InstallerSha256: D57A4F99FBF65A0A107CEB9970BF99A4CD22AADD54F339A28CED348DD496AA81
 ManifestType: installer
 ManifestVersion: 1.6.0
